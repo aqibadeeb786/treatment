@@ -27,7 +27,7 @@
         v-if="formSubmitted"
         @click="formSubmitted = false"
       >
-        Add Appointment
+        Add New Appointment
       </button>
     </section>
   </div>
